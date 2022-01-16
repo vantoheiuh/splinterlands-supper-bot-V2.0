@@ -13,6 +13,6 @@ More information:
 - My telegram: @vanbdn208
 If you find this tool useful, We are accepting donations to further enhance this project:
 - Splinterland username: vanz-2008
-- BUSD (bep20): 0xed0d0d107b83dddd602c3749464bf9a59705d561
+- BUSD (bep20): 0x13c7b403ab199473766144bbee96ad193cf4fc57
 - Paypal: vantoheiuh@gmail.com
 Developed by: @vanbdn208
